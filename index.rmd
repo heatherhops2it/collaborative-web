@@ -7,6 +7,8 @@ output: html_document
 
 hello!
 
+More conflict!
+
 
 Here is a cute doggo photo!
 ![](https://static.vecteezy.com/system/resources/thumbnails/005/857/332/small_2x/funny-portrait-of-cute-corgi-dog-outdoors-free-photo.jpg)
